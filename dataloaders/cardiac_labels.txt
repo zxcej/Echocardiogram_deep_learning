@@ -1,0 +1,4 @@
+0 LowRisk
+1 AverageRisk
+2 HighRisk
+
